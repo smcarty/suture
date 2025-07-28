@@ -30,7 +30,7 @@ Leave visible:
 - ✔️ Dates and amounts (old rate, new rate, hike date)
 - ✔️ Unit type 
 
-Be Prepared to provide additional imformation on rented unit via structured form:
+Be prepared to provide additional details in a structured form, such as:  
 - Size (e.g. 5×5, 10×20)  
 - Indoor/outdoor access  
 - Climate control status  
