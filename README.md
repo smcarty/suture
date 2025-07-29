@@ -1,3 +1,5 @@
+<img src="assets/suture_logo.png" alt="Suture Logo" width="150"/>
+
 # Suture  
 *A storage unit rental pricing transparency project*
 
