@@ -1,4 +1,4 @@
-<img src="assets/suture_logo.png" alt="Suture Logo" width="150"/>
+![Suture Logo](assets/suture_logo.svg)
 
 # Suture  
 *A storage unit rental pricing transparency project*
