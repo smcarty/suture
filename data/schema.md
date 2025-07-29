@@ -51,7 +51,14 @@ This document defines the fields we collect for each storage rent report. Submis
 |------------|---------|-------------|
 | `comments` | string  | Free-form notes about the experience or pricing history |
 
----
+---  
+
+## Planned Schema Note
+
+Promo rates are collected for transparency but are not used in pricing trend comparisons, since they reflect temporary marketing discounts, not true long-term costs.  
+
+
+---  
 
 ## 🔒 Redaction Reminder
 
